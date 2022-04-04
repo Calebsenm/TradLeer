@@ -1,0 +1,17 @@
+{
+  "name": "TradLeer",
+  "description": "Esta es mi segunda Extencion!!!!!!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["storage"],
+
+  "action": {
+    "default_popup": "Menu.html"
+  },
+  
+  "icons":{
+    "16":"imagen16.png",
+    "48":"imagen48.png",
+    "128":"imagen128.png"
+  }
+}
