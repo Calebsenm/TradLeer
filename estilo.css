@@ -5,3 +5,19 @@
     border-radius: 10px;
 
 }
+
+/* lo que se inyectará */
+
+.uno{
+            
+    border: 1px solid #999;
+    border-radius: 4px;
+    color: #222;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: normal;
+    padding: 9px;
+    position: absolute;
+    width: 300px;
+
+        }
