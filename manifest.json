@@ -3,10 +3,10 @@
   "description": "Esta es mi segunda Extencion!!!!!!",
   "version": "1.0",
   "manifest_version": 3,
-  "permissions": ["storage"],
+  "permissions": ["storage","activeTab"],
 
   "action": {
-    "default_popup": "Menu.html"
+    "default_popup": "inyection.html"
   },
   
   "icons":{
@@ -14,4 +14,5 @@
     "48":"imagen48.png",
     "128":"imagen128.png"
   }
+  
 }
